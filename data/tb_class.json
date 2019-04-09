@@ -1,0 +1,110 @@
+[
+	{
+		"classid" : 1,
+		"classname" : "日志",
+		"parentid" : 0,
+		"order" : 0,
+		"depth" : 2,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 2,
+		"classname" : "相册",
+		"parentid" : 0,
+		"order" : 1,
+		"depth" : 2,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 3,
+		"classname" : "体育",
+		"parentid" : 1,
+		"order" : 0,
+		"depth" : 3,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 4,
+		"classname" : "生活",
+		"parentid" : 1,
+		"order" : 1,
+		"depth" : 3,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 5,
+		"classname" : "风景",
+		"parentid" : 2,
+		"order" : 0,
+		"depth" : 3,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 6,
+		"classname" : "人文",
+		"parentid" : 2,
+		"order" : 1,
+		"depth" : 3,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 7,
+		"classname" : "球类",
+		"parentid" : 3,
+		"order" : 0,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 8,
+		"classname" : "自行车",
+		"parentid" : 3,
+		"order" : 1,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 9,
+		"classname" : "美食",
+		"parentid" : 4,
+		"order" : 2,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 10,
+		"classname" : "旅游",
+		"parentid" : 5,
+		"order" : 9,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 8,
+		"classname" : "自拍",
+		"parentid" : 6,
+		"order" : 8,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	},
+	{
+		"classid" : 9,
+		"classname" : "家居",
+		"parentid" : 5,
+		"order" : 9,
+		"depth" : 4,
+		"url" : "/",
+		"userid" : 10000
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"photoid" : 1,
+		"classid" : 7,
+		"userid" : 10000,
+		"thumbnail" : "/img",
+		"title" : "华山",
+		"photo" : "img/1.jpg",
+		"pv" : 123,
+		"photodate" : "2019-03-03 00:00:00"
+	},
+	{
+		"photoid" : 2,
+		"classid" : 8,
+		"userid" : 10000,
+		"thumbnail" : "/img",
+		"title" : "温州海边",
+		"photo" : "img/2.jpg",
+		"pv" : 456,
+		"photodate" : "2019-03-03 00:00:00"
+	},
+	{
+		"photoid" : 3,
+		"classid" : 7,
+		"userid" : 10000,
+		"thumbnail" : "/img",
+		"title" : "泰山",
+		"photo" : "img/3.jpg",
+		"pv" : 789,
+		"photodate" : "2019-03-03 00:00:00"
+	},
+	{
+		"photoid" : 4,
+		"classid" : 9,
+		"userid" : 10000,
+		"thumbnail" : "/img",
+		"title" : "秦始皇遗址",
+		"photo" : "img/4.jpg",
+		"pv" : 123,
+		"photodate" : "2019-03-03 00:00:00"
+	},
+	{
+		"photoid" : 5,
+		"classid" : 8,
+		"userid" : 10000,
+		"thumbnail" : "/img",
+		"title" : "连云港海边",
+		"photo" : "img/5.jpg",
+		"pv" : 156,
+		"photodate" : "2019-03-03 00:00:00"
+	}
+]

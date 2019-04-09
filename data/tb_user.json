@@ -1,0 +1,67 @@
+[
+	{
+		"userid" : 10000,
+		"username" : "admin",
+		"password" : "admin",
+		"email" : "admin@qq.com",
+		"skin" : 1,
+		"userimg" : "img/tx1.jpg",
+		"nickname" : "admin",
+		"sex" : "男",
+		"age" : 12,
+		"sign" : "qwer",
+		"remark" : "一号"
+	},
+	{
+		"userid" : 10001,
+		"username" : "user",
+		"password" : "user",
+		"email" : "user@qq.com",
+		"skin" : 1,
+		"userimg" : "/img",
+		"nickname" : "user",
+		"sex" : "女",
+		"age" : 13,
+		"sign" : "asdf",
+		"remark" : "二号"
+	},
+	{
+		"userid" : 10002,
+		"username" : "blog",
+		"password" : "blog",
+		"email" : "blog@qq.com",
+		"skin" : 2,
+		"userimg" : "/img",
+		"nickname" : "blog",
+		"sex" : "男",
+		"age" : 14,
+		"sign" : "zxcv",
+		"remark" : "三号"
+	},
+	{
+		"userid" : 10003,
+		"username" : "class",
+		"password" : "class",
+		"email" : "class@qq.com",
+		"skin" : 3,
+		"userimg" : "/img",
+		"nickname" : "class",
+		"sex" : "女",
+		"age" : 15,
+		"sign" : "qwerty",
+		"remark" : "四号"
+	},
+	{
+		"userid" : 10004,
+		"username" : "photo",
+		"password" : "photo",
+		"email" : "photo@qq.com",
+		"skin" : 1,
+		"userimg" : "/img",
+		"nickname" : "photo",
+		"sex" : "男",
+		"age" : 16,
+		"sign" : "gfdgdf",
+		"remark" : "五号"
+	}
+]

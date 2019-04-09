@@ -1,0 +1,38 @@
+[
+	{
+		"bbsid" : 1,
+		"userid" : 10001,
+		"bbsdate" : "2019-03-01 00:00:00",
+		"bbscontent" : "真好",
+		"touserid" : 10000,
+		"replycontent" : "谢谢",
+		"replydate" : "0000-00-00 00:00:00"
+	},
+	{
+		"bbsid" : 2,
+		"userid" : 10002,
+		"bbsdate" : "2019-03-19 00:00:00",
+		"bbscontent" : "真香",
+		"touserid" : 10000,
+		"replycontent" : null,
+		"replydate" : null
+	},
+	{
+		"bbsid" : 3,
+		"userid" : 10003,
+		"bbsdate" : "2019-03-20 00:00:00",
+		"bbscontent" : "真棒",
+		"touserid" : 10000,
+		"replycontent" : null,
+		"replydate" : null
+	},
+	{
+		"bbsid" : 4,
+		"userid" : 10004,
+		"bbsdate" : "2019-03-06 00:00:00",
+		"bbscontent" : "真牛",
+		"touserid" : 10000,
+		"replycontent" : null,
+		"replydate" : null
+	}
+]

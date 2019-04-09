@@ -1,0 +1,32 @@
+[
+	{
+		"navid" : 1,
+		"navname" : "主页",
+		"order" : 1,
+		"url" : "/pack2/index.html"
+	},
+	{
+		"navid" : 2,
+		"navname" : "相册",
+		"order" : 2,
+		"url" : "/pack2/share.html"
+	},
+	{
+		"navid" : 3,
+		"navname" : "日志",
+		"order" : 3,
+		"url" : "/pack2/blog.html"
+	},
+	{
+		"navid" : 4,
+		"navname" : "留言",
+		"order" : 4,
+		"url" : "/pack2/gbook.html"
+	},
+	{
+		"navid" : 5,
+		"navname" : "个人档",
+		"order" : 5,
+		"url" : "/"
+	}
+]
